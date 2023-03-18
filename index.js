@@ -1,6 +1,7 @@
 
 // Write your code here
 
+
 // Task (1)
 
 let num1 = 31;
@@ -22,12 +23,9 @@ let num4 = 5;
 
 let mod = num3 % num4;
 
-console.log("The reminder of this two numbers is " +mod);
+console.log("This is the reminder of these two numbers " +mod);
 
 // Task (4)
 
 let max = Math.max(5,10,15,20);
 console.log("The highest num of this values is " +max);
-
-
-
